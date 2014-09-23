@@ -1,6 +1,11 @@
 Geosharer
 =========
 
+
+This REPO is no longer in use and has moved over to yolo-octo-robot
+
+
+
 Getting Started
 ---------------
 
